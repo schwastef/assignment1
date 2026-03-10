@@ -1,2 +1,2 @@
 # assignment1
-Assignment 1 for OpenSourceSystemModeling
+Assignment 1 for OpenSourceEnergySystemModeling
